@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Certainly, I'll create a markdown (md) file for your resume based on the information provided. Here's the markdown version of your resume:
-markdownCopy# SANGBAEK PARK
-qkr800507@gmail.com | 267-344-9287
-
-Dedicated educational researcher with a robust background in conducting culturally responsive and impact-driven research. Extensive experience in statistical analysis, impact evaluation, and educational measurement, with a focus on promoting educational equity in humanitarian contexts. Proven track record of utilizing advanced quantitative research methods, including causal inference and machine learning, to inform policy and practice. Committed to improving educational outcomes for marginalized and vulnerable populations globally. Skilled in collaboration and communication within diverse, multicultural environments.
-
 ## EDUCATION
 
 ### COLUMBIA UNIVERSITY - TEACHERS COLLEGE
@@ -28,7 +22,7 @@ Dedicated educational researcher with a robust background in conducting cultural
 - Research Assistant: Decomposing preference, selection, and conditional average treatment effects using a 6-arm within-study comparison (with Dr. Bryan Keller)
 - Course Assistant: Multivariate Analysis (HUDM 6122), Applied Regression Analysis (HUDM 5122)
 - Courses taken (select): Causal inference and program evaluation, Linear models in experimental design, Multilevel longitudinal data analysis, Latent structure analysis, Bayesian statistics for social science, Machine learning for social science, Modern data structure, Psychological measurement, Psychometric theory I & II
-- Final GPA: 3.9 /4.0
+
 
 ### GEORGETOWN UNIVERSITY - McCOURT SCHOOL OF PUBLIC POLICY
 **Master of Policy Management (MPM)**  
