@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png" #png
+  avatar           : "profile2.png" 
   name             : "Sangbaek Park"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Princeton, NJ"
   employer         : "self-employed"
