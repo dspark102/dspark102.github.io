@@ -22,9 +22,9 @@ repository               : "dspark102/dspark102.github.io"
 author:
   # Biographic information
   avatar           : "profile.png " 
-  name             : "Sangbaek Park"
+  name             : "Sangbaek Park, PhD"
   pronouns         : "he/him"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Causal Inference, Impact Evaluation, Data Science, Quantitative Research "
   location         : "Princeton, NJ"
   employer         : "self-employed"
   uri              : # URL
